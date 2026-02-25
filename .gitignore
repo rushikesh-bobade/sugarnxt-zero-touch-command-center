@@ -1,0 +1,43 @@
+# .gitignore
+
+# Ignore Hackathon PPT content
+HACKATHON_PPT_CONTENT.md
+
+# Node.js/Bun dependencies
+node_modules/
+
+# Next.js build output
+.next/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo
+
+# Misc
+.env
+.env.local
+.env.*.local
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Others
+*.swp
+*.swo
+
+# Coverage
+coverage/
+
+# Build artifacts
+dist/
+build/
+
+# Ignore by default
+# Add more patterns as needed
