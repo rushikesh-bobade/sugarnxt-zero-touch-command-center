@@ -77,9 +77,8 @@ SugarNXT is a real-time AI-powered Command Center for sugar manufacturing plants
 
 ## Hackathon & Team
 - Built for: AI-Driven Smart Sugar Factory Hackathon (Feb 2026)
-- Team Name: [Add your team name]
-- Demo URL: [Add deployment URL]
-- GitHub Repo: [Add your repo URL]
+- Team Name: DreamWork
+- Demo URL: coming....
 
 ## License
 [Specify your license here]
